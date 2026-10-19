@@ -1,0 +1,9 @@
+.yellow {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+}
+#pet {
+    width: 200px;
+}
